@@ -15,6 +15,4 @@ public class FaultCode {
     public List<String> getNumber() {
         return number;
     }
-
-
 }
